@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://maninblackdev.files.wordpress.com/2022/12/img_0922-3.jpeg?w=1024](https://images.pexels.com/photos/986774/pexels-photo-986774.jpeg?cs=srgb&dl=pexels-filippo-bergamaschi-986774.jpg&fm=jpg)" align="center" style="width: 100%" />
+<img src="https://maninblackdev.files.wordpress.com/2022/12/img_0922-3.jpeg?w=1024" align="center" style="width: 100%" />
 </div>  
   
 
